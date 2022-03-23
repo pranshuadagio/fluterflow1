@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "722360973547",
+    "project_id": "adagiovr-b9d3c",
+    "storage_bucket": "adagiovr-b9d3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722360973547:android:ad5c37fb86e28ca89726ae",
+        "android_client_info": {
+          "package_name": "com.company.AdagioVR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722360973547-042c027i44dbg5rt3nan6f7g9lcjhj0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.AdagioVR",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "722360973547-mppbn7t6sn2gqn5o9d44qf0jmmikto00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97FwoEdYIX6BCN_4FBFDRhQod9p0VQrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722360973547-mppbn7t6sn2gqn5o9d44qf0jmmikto00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722360973547-5e1ftlcrno896lt07gqhi4i6uvjv5ajh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.adagiovr"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722360973547:android:268bd4cc473a41ac9726ae",
+        "android_client_info": {
+          "package_name": "com.flutterflow.AdagioVR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722360973547-5d6m8oirts44cm9h0dun65r47ff02agb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.AdagioVR",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "722360973547-mppbn7t6sn2gqn5o9d44qf0jmmikto00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97FwoEdYIX6BCN_4FBFDRhQod9p0VQrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722360973547-mppbn7t6sn2gqn5o9d44qf0jmmikto00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722360973547-5e1ftlcrno896lt07gqhi4i6uvjv5ajh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.adagiovr"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722360973547:android:1ee54d28a948718c9726ae",
+        "android_client_info": {
+          "package_name": "com.flutterflow.adagiovr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722360973547-d11id78nvvf2fjn0p26tnqko28m5nbhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.adagiovr",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "722360973547-mppbn7t6sn2gqn5o9d44qf0jmmikto00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97FwoEdYIX6BCN_4FBFDRhQod9p0VQrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722360973547-mppbn7t6sn2gqn5o9d44qf0jmmikto00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722360973547-5e1ftlcrno896lt07gqhi4i6uvjv5ajh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.adagiovr"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722360973547:android:f4ad3c89e75f10009726ae",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722360973547-mppbn7t6sn2gqn5o9d44qf0jmmikto00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97FwoEdYIX6BCN_4FBFDRhQod9p0VQrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722360973547-mppbn7t6sn2gqn5o9d44qf0jmmikto00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722360973547-5e1ftlcrno896lt07gqhi4i6uvjv5ajh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.adagiovr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
